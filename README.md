@@ -11,8 +11,6 @@ This project demonstrates React fundamentals (state, props, hooks) while adding 
 - ✅ **Mark Completed**: Tick tasks off with a checkbox (line-through effect).
 - ❌ **Delete Tasks**: Remove tasks you no longer need.
 - 📊 **Task Summary**: Displays total, completed, and remaining tasks.
-- 💡 **Motivational Quotes**: Random quote shown to inspire users.
-- ⌨️ **Keyboard Shortcuts**: Press **Enter** to add tasks faster.
 
 ---
 
