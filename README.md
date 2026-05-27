@@ -23,6 +23,7 @@ This project demonstrates React fundamentals (state, props, hooks) while adding 
 - **Netlify/Vercel** for deployment
 
 ---
+<img width="1183" height="872" alt="Screenshot 2026-05-27 223807" src="https://github.com/user-attachments/assets/b66d8ba0-ea0c-44a4-9c04-bb41c2a8ca32" />
 
 ## 📂 Project Setup
 
@@ -32,4 +33,4 @@ git clone https://github.com/<your-username>/todo-app.git
 cd todo-app
 npm start
 
-<img width="1183" height="872" alt="Screenshot 2026-05-27 223807" src="https://github.com/user-attachments/assets/b66d8ba0-ea0c-44a4-9c04-bb41c2a8ca32" />
+'''
